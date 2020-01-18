@@ -1,1 +1,3 @@
-console.log("Hello World")
+console.log("Hello World");
+console.log("Welcome to my first program!!!");
+console.log("We create our future")
